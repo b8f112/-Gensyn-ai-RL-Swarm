@@ -11,4 +11,4 @@ source venv/bin/activate
 
 
 
-wget -O swarm.sh https://raw.githubusercontent.com/b8f112/-Gensyn-ai-RL-Swarm/refs/heads/main/swarm.s && sed -i 's/\r//' swarm.sh && chmod +x swarm.sh && ./swarm.sh
+wget -O swarm.sh https://raw.githubusercontent.com/b8f112/-Gensyn-ai-RL-Swarm/refs/heads/main/swarm.sh && sed -i 's/\r//' swarm.sh && chmod +x swarm.sh && ./swarm.sh
