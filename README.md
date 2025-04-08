@@ -1,8 +1,13 @@
 screen -S swarm
+
 sudo apt update
+
 sudo apt install -y git python3 python3-venv python3-pip curl
+
 python3 -m venv venv
+
 source venv/bin/activate
+
 
 
 
